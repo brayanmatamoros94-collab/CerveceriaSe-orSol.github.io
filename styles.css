@@ -2,6 +2,8 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #f0f0f0;
-  color: #333;
+  color: #e7d31f;
+  background: linear-gradient(#4b2c20, #e7a61a);
+    min-height: 100vh;
+    margin: 0;
 }
