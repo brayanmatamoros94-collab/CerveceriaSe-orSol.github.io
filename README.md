@@ -49,21 +49,12 @@ Este sitio fue construido con:
 
     Google Maps API para el localizador.
 
-📂 Estructura del Repositorio
-Plaintext
-
-/
-├── index.html          # Página principal
-├── css/                # Estilos (SASS/CSS)
-├── js/                 # Lógica de filtros y mapa
-└── assets/             # Imágenes de botellas y logo
 
 🍻 Nuestras Variedades Destacadas
 Cerveza	Tipo	IBU	ABV
-Lúpulo Galáctico	Session IPA	45	4.5%
-Noche Oscura	Oatmeal Stout	30	6.0%
-Trigo Dorado	Weissbier	12	5.2%
-🛠️ Instalación y Uso Local
+Lúpulo Galáctico	Session IPA	45 IBU - 4.5% ABV
+Noche Oscura	Oatmeal Stout	30 IBU - 6.0% ABV
+Trigo Dorado	Weissbier	12 IBU - 5.2% ABV
 
 
 ✍️ Autor
